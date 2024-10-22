@@ -55,7 +55,7 @@
 
 ### Табличка с оценками
 
-<ПОЯВИТСЯ ТУТ СКОРО>
+Табличка с оценками находится [тут](https://docs.google.com/spreadsheets/d/1WObYqeWVDrxr2C3wqDWpZJL39TLHUubBWU-veh5bM5w/edit?usp=sharing)
 
 ### Понижающие коэффициенты ДЗ
 
